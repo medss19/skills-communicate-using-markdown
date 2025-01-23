@@ -1,6 +1,8 @@
 # Practice 
 
-## Hi I'm Medha
+## Hi I'm OctoIronCat 
+
+![Image of OctoIronCat](https://cameronmcefee.com/img/work/the-octocat/ironcat.jpg)
 
 ###### Guess the heading type XD
 
