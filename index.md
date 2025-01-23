@@ -11,6 +11,11 @@ int wow = 100;
 string result = "awesome"
 ```
 
+- [x] heading types
+- [x] image link
+- [x] code section
+- [ ] task list
+
 ### Well that was h6 and this h3. 
 
 #### So much fun says h4 XD!
